@@ -1,0 +1,46 @@
+{
+    "Central Park": {
+        "latitude": 40.785091,
+        "longitude": -73.968285
+    },
+    "Apollo Theater": {
+        "latitude": 40.81038,
+        "longitude": -73.94906
+    },
+    "Times Square": {
+        "latitude": 40.758896,
+        "longitude": -73.98513
+    },
+    "Empire State Building": {
+        "latitude": 40.748817,
+        "longitude": -73.985428
+    },
+    "Statue of Liberty": {
+        "latitude": 40.689247,
+        "longitude": -74.044502
+    },
+    "Metropolitan Museum of Art": {
+        "latitude": 40.779437,
+        "longitude": -73.963244
+    },
+    "Broadway Theater District": {
+        "latitude": 40.759011,
+        "longitude": -73.984472
+    },
+    "Rockefeller Center": {
+        "latitude": 40.75874,
+        "longitude": -73.978674
+    },
+    "Wall Street (Financial District)": {
+        "latitude": 40.707491,
+        "longitude": -74.011276
+    },
+    "Chinatown": {
+        "latitude": 40.71575,
+        "longitude": -73.99703
+    },
+    "High Line": {
+        "latitude": 40.747993,
+        "longitude": -74.004764
+    }
+}
